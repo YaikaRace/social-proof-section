@@ -1,0 +1,14 @@
+{
+  "name": "social-proof-section",
+  "version": "1.0.0",
+  "description": "![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tailwindcss -i ./src/input.css -o ./public/css/style.css --watch"
+  },
+  "author": "Yaika Race",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
